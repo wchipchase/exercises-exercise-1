@@ -15,6 +15,6 @@ $ npm install -g http-server
 ```
 
 ## Running
-Browse to pie directory and run http server
+Browse to exercises-exercise-1 directory and run http server
 
-![page of pies](https://raw.githubusercontent.com/wchipchase/pie/master/screenshots/pie.JPG "a bunch of pies")
+![page of cats](https://raw.githubusercontent.com/wchipchase/exercises-exercise-1/master/screenshots/prod_cards.JPG "a bunch of cats")
